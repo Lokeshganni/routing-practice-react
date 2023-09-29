@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+.header-container {
+  padding: 5% 5%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo-icon {
+  width: 35px;
+  height: 35px;
+}
+
+.wave-para {
+  color: #555555;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  margin-left: 8px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+}
+
+li {
+  list-style-type: none;
+  margin: 5px;
+  text-align: center;
+  padding: 1px;
+}
+
+.li-display-text {
+  color: #555555;
+  font-weight: 700;
+  text-decoration: none;
+}
