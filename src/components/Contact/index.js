@@ -6,7 +6,7 @@ const Contact = () => (
     <img
       src="https://assets.ccbp.in/frontend/react-js/contact-blog-img.png"
       alt="contact"
-      className="icon"
+      className="contact-icon"
     />
     <h1 className="heading">Contact</h1>
   </div>

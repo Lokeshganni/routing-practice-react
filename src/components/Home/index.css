@@ -9,12 +9,24 @@
   /* margin-top: 50px; */
 }
 
-.icon {
+.home-icon {
   width: 40%;
+}
+
+@media screen and (min-width: 768px) {
+  .home-icon {
+    width: 26%;
+  }
 }
 
 .heading {
   color: #551e53;
   font-weight: 500;
   font-size: 35px;
+}
+
+@media screen and (min-width: 768px) {
+  .heading {
+    font-size: 38px;
+  }
 }

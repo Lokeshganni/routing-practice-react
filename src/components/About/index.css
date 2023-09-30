@@ -9,8 +9,14 @@
   /* margin-top: 50px; */
 }
 
-.icon {
+.about-icon {
   width: 40%;
+}
+
+@media screen and (min-width: 768px) {
+  .about-icon {
+    width: 26%;
+  }
 }
 
 .heading {
@@ -22,4 +28,11 @@
 .para {
   color: #12022f;
   font-size: 14px;
+  font-weight: 500;
+}
+
+@media screen and (min-width: 768px) {
+  .para {
+    font-size: 16px;
+  }
 }

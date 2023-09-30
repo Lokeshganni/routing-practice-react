@@ -6,7 +6,7 @@ const Home = () => (
     <img
       src="https://assets.ccbp.in/frontend/react-js/home-blog-img.png"
       alt="home"
-      className="icon"
+      className="home-icon"
     />
     <h1 className="heading">Home</h1>
   </div>

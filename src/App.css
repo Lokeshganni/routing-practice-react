@@ -21,3 +21,9 @@ body {
   border-radius: 15px;
   margin: 3% 4%;
 }
+
+@media screen and (min-width: 768px) {
+  .main-container {
+    margin: 4% 7%;
+  }
+}

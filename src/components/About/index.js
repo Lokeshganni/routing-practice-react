@@ -6,7 +6,7 @@ const About = () => (
     <img
       src="https://assets.ccbp.in/frontend/react-js/about-blog-img.png"
       alt="about"
-      className="icon"
+      className="about-icon"
     />
     <h1 className="heading">About</h1>
     <p className="para">I Love to create! I am a Frontend Web Developer</p>
